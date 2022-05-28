@@ -1,4 +1,6 @@
 # iOS-Apps
-Contains all the iOS application that I created from my bootcamp
+Collection of iOS applications that I made using XCode and Swift.  
+Some are created and modified during my iOS appp development bootcamp.
 
-App 1: I Am Rich
+# List of Apps 
+| Application Name        | Description           |
