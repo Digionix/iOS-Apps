@@ -1,7 +1,7 @@
 # iOS-Apps (Repo WIP)
 Collection of iOS applications that I made using XCode and Swift.  
 They are created to showcase my current iOS development skills.  
-The apps are created using SwiftUI and UIKit
+The apps are created using SwiftUI and Storyboard.
 
 # List of Apps 
 | Application Name        | Description               | Link |
