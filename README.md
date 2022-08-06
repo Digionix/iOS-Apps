@@ -8,7 +8,7 @@ The apps are divided into two list based on their UI Builder, SwiftUI and Storyb
 | ------------------------|---------------------------|-------------------------------------------------|
 | BMI Me                  | BMI calculator app        |Link|
 | Cardify                 | Professional card creator |Link|
-| Chooaca                 | Simple weather app        |Link|
+| Chooaca                 | Simple weather app        |[Link](https://github.com/jonathanvieri/Chooaca)|
 
 <br>
 
