@@ -1,4 +1,4 @@
-# iOS-Apps (Repo WIP)
+# iOS-Apps
 Collection of iOS applications that I made using XCode and Swift.  
 They are created to showcase my iOS Development skills.  
 The apps are divided into two list based on their UI Builder, SwiftUI and Storyboard.
