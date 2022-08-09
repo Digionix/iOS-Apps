@@ -9,11 +9,11 @@ The apps are divided into two list based on their UI Builder, SwiftUI and Storyb
 | ------------------------|---------------------------|-------------------------------------------------|
 | BMI Me                  | BMI calculator app        |[Link](https://github.com/jonathanvieri/bmi-me)  |
 | Cardify                 | Professional card creator |Link|
-| Chooaca                 | Simple weather app        |[Link](https://github.com/jonathanvieri/Chooaca)|
+| Chooaca                 | Simple weather app        |[Link](https://github.com/jonathanvieri/chooaca)|
 
 <br>
 
 # Storyboard Apps
 | Application Name        | Description               | Repo                                             |
 | ------------------------|---------------------------|--------------------------------------------------|
-| DoggoCoin               | Dogecoin tracker          |[Link](https://github.com/jonathanvieri/DoggoCoin)|
+| DoggoCoin               | Dogecoin price tracker    |[Link](https://github.com/jonathanvieri/doggocoin)|
