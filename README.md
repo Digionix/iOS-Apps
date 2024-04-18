@@ -9,7 +9,6 @@ There is also other apps which are related with Unit Testing, RXSwift, etc.
 | Application Name        | Description               |Repo                                             |
 | ------------------------|---------------------------|-------------------------------------------------|
 | BMI Me                  | BMI calculator app        |[Link](https://github.com/jonathanvieri/bmi-me)  |
-| Cardify                 | Professional card creator |Link|
 | Chooaca                 | Simple weather app        |[Link](https://github.com/jonathanvieri/chooaca)|
 
 <br>
