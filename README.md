@@ -8,4 +8,4 @@
 | **Pack Buddy**   | A packing list organizer for trips | UIKit, Core Data, Core Animation, MVVM   | [link](https://github.com/jonathanvieri/Pack-Buddy) |
 | **BMI Me**       | BMI calculator app                 | SwiftUI, Geometry Reader                 | [link](https://github.com/jonathanvieri/bmi-me)     |
 | **Chooaca**      | Simple weather app                 | SwiftUI, Core Location, Networking, MVVM | [link](https://github.com/jonathanvieri/chooaca)    |
-| **DoggoCoin      | Dogecoin price tracker             | UIKit, Networking, MVC                   | [link](https://github.com/jonathanvieri/doggocoin)  |
+| **DoggoCoin**    | Dogecoin price tracker             | UIKit, Networking, MVC                   | [link](https://github.com/jonathanvieri/doggocoin)  |
