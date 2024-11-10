@@ -84,5 +84,20 @@ This BMI calculator app lets users quickly calculate their BMI based on height a
   <summary> Demos & Learning Projects </summary>
   
   # [DoggoCoin]()
+DoggoCoin is a simple cryptocurrency price-checking app created as my first project using UIKit. 
+I wanted to learn the basics of API integration and JSON parsing within Storyboard, and building this app allowed me to explore those concepts in a hands-on way. 
+DoggoCoin fetches the latest Dogecoin price and lets users switch between 21 different currencies, demonstrating practical skills in data handling and UI layout.
+
+<br>
+<p align="left">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/doggocoin/launch-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/doggocoin/main-screen.png" width="200">
+</p>
   
+  ### Technologies
+- 🖌 UIKit
+- 🏗 MVC
+- 🔄 Delegate Pattern
+- 🌐 URLSession
+
 </details>
