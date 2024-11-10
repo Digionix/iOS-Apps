@@ -17,6 +17,7 @@ With Pack Buddy, I aimed to create a tool that organizes packing lists in a way 
 The app offers customizable categories, progress tracking with visual indicators, and a layout tailored for trip planning.
 By allowing users to create personalized packing lists and manage items within categories, Pack Buddy makes it easy to keep track of essentials and avoid the stress of last-minute packing.
 
+<br>
 <p align="left">
   <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/pack-buddy/packing-screen.png" width="200">
   <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/pack-buddy/add-packing-screen.png" width="200">
@@ -41,6 +42,7 @@ Working on Horizon gave me the perfect chance to really dig into SwiftUI and see
 Integrating the OpenWeatherMap API was a great learning experience, especially as I tackled real-time updates and data caching. 
 Through this project, I got to refine my skills in API handling, error management, and creating a responsive, intuitive interface.
 
+<br>
 <p align="left">
   <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/horizon/weather-screen.png" width="200">
   <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/horizon/search-screen.png" width="200">
