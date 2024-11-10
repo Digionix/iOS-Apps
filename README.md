@@ -9,6 +9,22 @@ Each project showcases different aspects of iOS development, from architecture t
 Take a look around, and feel free to explore my work!
 
 # [Pack Buddy](https://github.com/jonathanvieri/Pack-Buddy)
+Pack Buddy was inspired by my own experience of trying to organize packing lists using the built-in Notes app on my phone.
+Although Notes could get the job done, it never felt dedicated or organized enough for managing the details of packing for trips.
+I wanted an app that would simplify the process, allowing me to track my progress and categorize items in a way that felt intuitive and travel-focused.
+
+With Pack Buddy, I aimed to create a tool that organizes packing lists in a way that feels intuitive and enjoyable. 
+The app offers customizable categories, progress tracking with visual indicators, and a layout tailored for trip planning.
+By allowing users to create personalized packing lists and manage items within categories, Pack Buddy makes it easy to keep track of essentials and avoid the stress of last-minute packing.
+
+<p align="left">
+  
+</p>
+
+
+### Technologies
+-
+
 
 # [Horizon](https://github.com/jonathanvieri/Horizon)
 Horizon started as a way for me to dive deeper into SwiftUI and get hands-on with real-time data handling in iOS development. 
