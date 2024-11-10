@@ -8,17 +8,30 @@ This portfolio includes a selection of projects where I've focused on creating s
 Each project showcases different aspects of iOS development, from architecture to functionality, and reflects my excitement for building apps that people love to use. 
 Take a look around, and feel free to explore my work!
 
-
-# [Horizon](https://github.com/jonathanvieri/Horizon)
-
-
 # [Pack Buddy](https://github.com/jonathanvieri/Pack-Buddy)
 
+# [Horizon](https://github.com/jonathanvieri/Horizon)
+Horizon started as a way for me to dive deeper into SwiftUI and get hands-on with real-time data handling in iOS development. 
+I wanted to build something that was both useful and easy to use, so I decided on a weather app that provides local forecasts and air quality index (AQI) data.
 
-## List of Created Applications
-| Application Name | Description                        | Technologies Used                        | Repo                                                |
-|------------------|------------------------------------|------------------------------------------|-----------------------------------------------------|
-| **Pack Buddy**   | A packing list organizer for trips | UIKit, Core Data, Core Animation, MVVM   | [link](https://github.com/jonathanvieri/Pack-Buddy) |
-| **Horizon**      | A weather app                      | SwiftUI, Core Location, Networking, MVVM | [link](https://github.com/jonathanvieri/Horizon)    |
-| **BMI Me**       | BMI calculator app                 | SwiftUI, Geometry Reader                 | [link](https://github.com/jonathanvieri/bmi-me)     |
-| **DoggoCoin**    | Dogecoin price tracker             | UIKit, Networking, MVC                   | [link](https://github.com/jonathanvieri/doggocoin)  |
+Working on Horizon gave me the perfect chance to really dig into SwiftUI and see how I could bring together a clean design with live data. 
+Integrating the OpenWeatherMap API was a great learning experience, especially as I tackled real-time updates and data caching. 
+Through this project, I got to refine my skills in API handling, error management, and creating a responsive, intuitive interface.
+
+<p align="left">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/horizon/weather-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/horizon/search-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/horizon/aqi-detail-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/horizon/settings-screen.png" width="200">
+</p>
+
+### Technologies
+- 🖌 SwiftUI
+- 📍 Core Location
+- 🏗 MVVM
+- 💾 Data Caching
+- 🔔 Push Notifications
+
+
+# [BMI Me]()
+# [DoggoCoin]()
