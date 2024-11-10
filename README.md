@@ -1,6 +1,19 @@
-# My iOS-Apps
-<p>A collection of iOS apps I've built to showcase my development skills in Swift and iOS development. </p>
-<p>Each project demonstrates various aspects of app design, architecture, and functionality.</p>
+# iOS Developer Portfolio 
+
+Hello! I'm Jonathan, an iOS Developer with a background in software testing, where I discovered a love for coding through automation. 
+Over time, I felt a growing desire to go beyond testing and dive into building and designing full applications. 
+This curiosity led me to pursue iOS development, where I could work on the full process of designing, building, and testing applications.
+
+This portfolio includes a selection of projects where I've focused on creating smooth, engaging experiences using Swift, SwiftUI, and other iOS frameworks.
+Each project showcases different aspects of iOS development, from architecture to functionality, and reflects my excitement for building apps that people love to use. 
+Take a look around, and feel free to explore my work!
+
+
+# [Horizon](https://github.com/jonathanvieri/Horizon)
+
+
+# [Pack Buddy](https://github.com/jonathanvieri/Pack-Buddy)
+
 
 ## List of Created Applications
 | Application Name | Description                        | Technologies Used                        | Repo                                                |
