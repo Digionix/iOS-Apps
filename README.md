@@ -18,12 +18,19 @@ The app offers customizable categories, progress tracking with visual indicators
 By allowing users to create personalized packing lists and manage items within categories, Pack Buddy makes it easy to keep track of essentials and avoid the stress of last-minute packing.
 
 <p align="left">
-  
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/pack-buddy/packing-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/pack-buddy/add-packing-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/pack-buddy/items-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/pack-buddy/add-category-screen.png" width="200">
 </p>
 
-
 ### Technologies
--
+- 🖌 UIKit
+- 🏗 MVVM Architecture
+- 💾 Core Data
+- 🔍 UISearchBar
+- 🎨 Core Animation
+- ✋ UIGestureRecognizer
 
 
 # [Horizon](https://github.com/jonathanvieri/Horizon)
