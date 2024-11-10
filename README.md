@@ -58,5 +58,31 @@ Through this project, I got to refine my skills in API handling, error managemen
 - 🔔 Push Notifications
 
 
-# [BMI Me]()
-# [DoggoCoin]()
+# [BMI Me](https://github.com/jonathanvieri/bmi-me)
+BMI Me is the first app I built independently with SwiftUI, right after learning the framework. 
+I wanted to create a simple yet functional project on my own, without following a tutorial, to really cement my understanding of SwiftUI basics. 
+This BMI calculator app lets users quickly calculate their BMI based on height and weight, and provides advice based on the result.
+
+<br>
+<p align="left">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/bmi-me/launch-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/bmi-me/calculate-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/bmi-me/details-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/bmi-me/result-screen.png" width="200">
+</p>
+
+### Technologies
+- 🖌 SwiftUI
+- 📐 GeometryReader
+- 🔗 NavigationView
+- 🎚 Slider
+- 🛠 Value-Binding Pattern
+
+<br>
+<hr>
+<details>
+  <summary> Demos & Learning Projects </summary>
+  
+  # [DoggoCoin]()
+  
+</details>
