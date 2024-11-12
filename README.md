@@ -32,6 +32,7 @@ By allowing users to create personalized packing lists and manage items within c
 - 🔍 UISearchBar
 - 🎨 Core Animation
 - ✋ UIGestureRecognizer
+- 🔍 XCTest
 
 
 # [Horizon](https://github.com/jonathanvieri/Horizon)
