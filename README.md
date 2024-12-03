@@ -35,6 +35,32 @@ By allowing users to create personalized packing lists and manage items within c
 - 🔍 XCTest
 
 
+# [Sentry](https://github.com/jonathanvieri/Sentry)
+Sentry is a project I worked on to explore Apple’s frameworks like AVFoundation, Vision, Core ML, and PhotoKit. 
+It started with a simple idea: I wanted to try real-time object detection using a live camera feed. 
+Over time, it evolved to include video playback from the user’s library or a URL, giving it the feel of a basic mock CCTV app.
+
+The app’s design is simple because I focused entirely on functionality. 
+My goal was to get hands-on experience with processing live video frames, running a machine learning model for object detection, and creating overlays for bounding boxes and labels. 
+I also wanted to experiment with how PhotoKit and AVFoundation work together to handle videos.
+It’s not the most polished app in my portfolio, but it’s packed with functionality and gave me a great opportunity to learn and experiment with these frameworks.
+
+<br>
+<p align="left">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/sentry/home-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/sentry/live-camera-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/sentry/upload-screen.png" width="200">
+  <img src="https://github.com/jonathanvieri/ios-apps/blob/main/assets/sentry/video-player-screen.png" width="200">
+</p>
+
+### Technologies
+- 🖌 UIKit
+- 🎥 AVFoundation
+- 🤖 Vision Framework
+- 📁 PhotoKit
+- 🏗 Core ML
+
+
 # [Horizon](https://github.com/jonathanvieri/Horizon)
 Horizon started as a way for me to dive deeper into SwiftUI and get hands-on with real-time data handling in iOS development. 
 I wanted to build something that was both useful and easy to use, so I decided on a weather app that provides local forecasts and air quality index (AQI) data.
